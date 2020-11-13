@@ -1,0 +1,15 @@
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\PersonModel.Service.dll.config
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\PersonModel.Service.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\PersonModel.Service.pdb
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\EntityFramework.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\Person.DAL.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\Person.DAL.pdb
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\Person.DAL.dll.config
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\EntityFramework.xml
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\obj\Debug\PersonModel.Service.csprojAssemblyReference.cache
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\obj\Debug\PersonModel.Service.csproj.CoreCompileInputs.cache
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\obj\Debug\PersonModel.Service.csproj.CopyComplete
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\obj\Debug\PersonModel.Service.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\PersonModel.Service\obj\Debug\PersonModel.Service.pdb

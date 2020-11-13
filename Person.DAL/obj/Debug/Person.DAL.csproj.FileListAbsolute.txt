@@ -1,0 +1,12 @@
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\obj\Debug\Person.DAL.csprojAssemblyReference.cache
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\obj\Debug\Person.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\bin\Debug\Person.DAL.dll.config
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\bin\Debug\Person.DAL.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\bin\Debug\Person.DAL.pdb
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\bin\Debug\EntityFramework.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\bin\Debug\EntityFramework.xml
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\obj\Debug\Person.DAL.csproj.CopyComplete
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\obj\Debug\Person.DAL.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.DAL\obj\Debug\Person.DAL.pdb

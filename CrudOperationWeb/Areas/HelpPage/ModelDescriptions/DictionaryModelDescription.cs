@@ -1,0 +1,6 @@
+namespace CrudOperationWeb.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}

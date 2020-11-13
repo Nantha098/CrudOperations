@@ -1,0 +1,15 @@
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\obj\Debug\Crud.Service.csprojAssemblyReference.cache
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\obj\Debug\Crud.Service.csproj.CoreCompileInputs.cache
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\Crud.Service.dll.config
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\Crud.Service.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\Crud.Service.pdb
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\Crud.DAL.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\EntityFramework.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\Crud.DAL.pdb
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\Crud.DAL.dll.config
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\EntityFramework.xml
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\obj\Debug\Crud.Service.csproj.CopyComplete
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\obj\Debug\Crud.Service.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Crud.Service\obj\Debug\Crud.Service.pdb

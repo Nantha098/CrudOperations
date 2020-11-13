@@ -1,0 +1,5 @@
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.Service\bin\Debug\Person.Service.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.Service\bin\Debug\Person.Service.pdb
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.Service\obj\Debug\Person.Service.csproj.CoreCompileInputs.cache
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.Service\obj\Debug\Person.Service.dll
+C:\Users\mnanthabala\source\repos\CrudOperations\Person.Service\obj\Debug\Person.Service.pdb
